@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Phyton, C and C++.
 - ///💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ==> nnkarhan@gmail.com
-- 😄 Pronouns: AstronomyLover☄
+- 😄 Pronouns:
 - ///⚡ Fun fact:
 
 <!---

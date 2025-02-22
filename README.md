@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Nur Sima KARHAN.
 - 👀 I’m interested in Science, mosty Astrophisics.
-- 🌱 I’m currently learning Phyton, C - C++, HTML and CSS.
+- 🌱 I’m currently learning Phyton, C, C++, HTML and CSS.
 - 📫 How to reach me ==> nnkarhan@gmail.com
 
 <!---

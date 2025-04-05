@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Nur Sima KARHAN.
 - 👀 I’m interested in Science, mosty Astrophisics.
 - 🌱 I’m currently learning Phyton, C, C++, HTML and CSS.
-- 📫 How to reach me ==> nnkarhan@gmail.com
+
 
 <!---
 16NK/16NK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
